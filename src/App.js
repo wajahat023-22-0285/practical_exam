@@ -1,7 +1,10 @@
 
 import React, { useEffect, useState } from "react";
 //exam
-function Wajahat() {
+//e
+//iba
+//ex
+function App() {
   const initialTime = 30;
 
   const [isLight, setIsLight] = useState(false);
@@ -140,4 +143,4 @@ function Wajahat() {
   );
 }
 
-export default Wajahat;
+export default App;
