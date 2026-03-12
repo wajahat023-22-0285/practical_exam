@@ -1,4 +1,4 @@
-import wajahat from "./wajahat";
+
 import React, { useEffect, useState } from "react";
 //exam
 function wajahat() {
