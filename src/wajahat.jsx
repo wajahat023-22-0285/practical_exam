@@ -1,6 +1,7 @@
+import wajahat from "./wajahat";
 import React, { useEffect, useState } from "react";
-
-function App() {
+//exam
+function wajahat() {
   const initialTime = 30;
 
   const [isLight, setIsLight] = useState(false);
@@ -139,4 +140,4 @@ function App() {
   );
 }
 
-export default App;
+export default wajahat;
